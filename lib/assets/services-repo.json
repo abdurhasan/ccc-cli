@@ -1,0 +1,23 @@
+[
+    {
+        "id":"filehandler",
+        "service_name": "File Handler",
+        "developers": "achan js , ..",
+        "clone": "ciniru --clone filehandler",
+        "urlrepo" : "https://github.com/abdurhasan/microservice-file-handler.git"
+    },
+    {
+        "id":"expressmongo",
+        "service_name": "Express-Mongodb starter",
+        "developers": "tabvn",
+        "clone": "ciniru --clone expressmongo",
+        "urlrepo" : "https://github.com/tabvn/es6-expressjs.git"
+    },
+    {
+        "id":"tempimage",
+        "service_name": "Temporary Image",
+        "developers": "achan js , ..",
+        "clone": "ciniru --clone tempimage",
+        "urlrepo" : "https://github.com/abdurhasan/microservice-image-temporary.git"
+    }
+]

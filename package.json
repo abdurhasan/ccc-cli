@@ -1,0 +1,22 @@
+{
+    "name": "code-coffee-creative",
+    "version": "0.0.1",
+    "description": "A library which provides a common standard NodeJS project in CCC, aimed to accelerate time-development and enggage developers to write library",
+    "preferGlobal": true,
+    "bin": {
+        "ciniru15": "./bin/index.js"
+    },
+    "dependencies": {
+        "boxen": "^4.1.0",
+        "chalk": "^2.4.2",
+        "commander": "^2.20.0",
+        "easy-table": "^1.1.1",
+        "figlet": "^1.2.4",
+        "inquirer": "^5.2.0",
+        "pad": "^3.2.0"
+    },
+    "contributors": [
+        "achan js",
+        "..."
+    ]
+}
