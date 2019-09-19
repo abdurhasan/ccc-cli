@@ -1,4 +1,4 @@
-[![](https://res.cloudinary.com/dhrunkicm/image/upload/v1565069590/logo-ccc_xqupdu.png)](https://codecoffeecreative.com)
+[![](https://res.cloudinary.com/dhrunkicm/image/upload/v1568867614/logo50_fwp6hs.png)](https://codecoffeecreative.com)
 
 # Ciniru15
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.npmjs.com/package/code-coffee-creative) 
