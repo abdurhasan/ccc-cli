@@ -23,7 +23,7 @@ $ ciniru15 --help
 
 ```diff
 + class Getcoffee {
-    def start joking :
+    def startjoking :
         return ' creativity '
 }
 
